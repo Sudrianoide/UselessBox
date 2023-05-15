@@ -1,5 +1,3 @@
-Bien sûr ! Voici un exemple de fichier README.md pour le projet de la "Useless Box" :
-
 # Useless Box
 
 Ce projet est une implémentation de la "Useless Box", une boîte inutile qui s'éteint automatiquement chaque fois qu'elle est allumée. Elle comporte différents mouvements qui ajoutent une touche d'humour à son fonctionnement.
